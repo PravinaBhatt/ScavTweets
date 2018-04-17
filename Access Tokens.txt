@@ -1,0 +1,8 @@
+ 
+Consumer Key (API Key)	GspyUoQvLtTIiEYqQ08HQKyuZ
+Consumer Secret (API Secret)	3GV1UVF6sBTj72ep9MGGCH4QoBADPmzTW5aBiv0CBWqckSkWyO
+Access Token	200503237-A284z9j4mz0waDNtI8gYJbV1uC5oiANOjdfrVSLR
+Access Token Secret	whFm04eKQZcKzcamW1sN1KLPESiq7kIY3SIxnU7fXC4vL
+Access Level	Read and write
+Owner	Laveen_Vasnani
+Owner ID	200503237
